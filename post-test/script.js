@@ -116,7 +116,7 @@ btn10.addEventListener('click', function () {
     const linkGithub = document.createElement('a')
     const linkTextGithub = document.createTextNode('Link Github Post Test Sprint 3 - Miswanto')
     linkGithub.appendChild(linkTextGithub)
-    linkGithub.setAttribute('href', 'https://github.com/masmisz')
+    linkGithub.setAttribute('href', 'https://github.com/masmisz/sprint3-dom/tree/main/post-test')
     linkGithub.setAttribute('title', 'Link Github Post Test Sprint 3 - Miswanto')
     li.appendChild(linkGithub)
 })
